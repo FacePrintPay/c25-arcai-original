@@ -12,6 +12,6 @@ chmod +x arcai_original.sh
 ```
 
 ## Source
-/data/data/com.termux/files/home/constellation25/c25-agent-deploy/arcai_original.sh
+/data/data/com.termux/files/home/constellation25-mono/constellation25/c25-agent-deploy/arcai_original.sh
 
 Built by Constellation 25 — FacePrintPay / Cygel White
